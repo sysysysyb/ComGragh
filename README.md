@@ -1,1 +1,2 @@
 # ComGragh
+Computer Graphics Project
